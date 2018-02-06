@@ -1,0 +1,1 @@
+# List of GitSession Attendees
